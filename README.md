@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yaman Shullar
-- 👀 I’m interested in Programming (especially using Python)
-- 🌱 I’m currently learning Data analysis and Machine learning 
-- 💞️ I’m looking to collaborate on ( Null )
+- 👀 I’m interested passionate about Programming (especially using Python) and Management Consulting (Their intersection for me is a blessing :))
+- 🌱 I aspire to master Data analysis and Machine learning
 - 📫 How to reach me --> yamanshullar@outlook.com
 
 <!---
