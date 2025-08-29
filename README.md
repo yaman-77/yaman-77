@@ -78,4 +78,4 @@ _Highlights:_ n-gram mining, simple manual lexicon curation, sentence-transforme
 
 ### Let’s connect
 If you’re building with data and want clean pipelines and honest metrics, say hi.  
-📧 **yamanshullar@outlook.com** · 💼 **https://www.linkedin.com/in/your-linkedin/**
+📧 **yamanshullar@outlook.com** · 💼 **http://www.linkedin.com/in/yaman-shullar-511031203**
